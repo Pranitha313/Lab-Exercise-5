@@ -135,6 +135,7 @@ Motivation: Wants a fast and hassle-free shopping experience.
 
 ## Output
 
+<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/62555149-2e41-45bc-a3b7-33dc5724e814" />
 
 
 ## Result
